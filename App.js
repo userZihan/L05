@@ -58,7 +58,7 @@ const MyApp = () => {
       }>
         <Text>LOG IN</Text>
         </TouchableOpacity>
-        <Text>{pw}</Text>
+        <Text>Entered Password: {pw}</Text>
 
       </View>
   );
